@@ -1,5 +1,5 @@
 alert("who is the luckiest person today?");
-var names = ["Pan", "Binh", "trang", "thomas", "paul"];
+var names = ["Pan", "Binh", "Trang", "Thomas", "Paul"];
 
 function whosPaying(names) {
 var x = Math.floor(Math.random()*names.length);
